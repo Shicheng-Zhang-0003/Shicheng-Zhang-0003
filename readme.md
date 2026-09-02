@@ -9,4 +9,6 @@
 ## Stage 3: What lies ahead.
 ### By the time that Stage 2 is finished, I will be both operational and intellectual boss of vibe coding. the days of Stage 1 where I must blindly trust what AI create will be over. Plus, human creativity can sometimes make some newer algorithms.
 
-## All are welcome to suggest and contribute to these projects!
+## All are welcome to suggest and contribute to my projects!
+
+## (Little busy with Uni Applications right now will get back to constant commits as soon as possible)
