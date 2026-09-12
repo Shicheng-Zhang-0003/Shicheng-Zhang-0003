@@ -1,4 +1,4 @@
-# Just a high schooler trying to worry about this and university applications simultaneously.
+# Just a high schooler trying to worry about this...
 
 ## Stage 1: Vibing.
 ### This is basically where I say vibe code everything out to the extremes. It's vibe coding. But in a world of AI it's best to have something on Github first to show interest. Right now I'm still a passenger in the ship.
@@ -11,4 +11,3 @@
 
 ## All are welcome to suggest and contribute to my projects!
 
-## (Little busy with Uni Applications right now will get back to constant commits as soon as possible)
