@@ -1,7 +1,7 @@
 # Just a high schooler trying to use these for a nice portfolio.
 
-## Inviting all who come along to make pull requests and requests features and things to improve to this existing stack right now.
-
 ## All are welcome to suggest and contribute to my projects!
 
-## October 23rd Update: KcsA is close to finally being solved, Lancius Generation 1 models making headway, and MFS finally acting like a proper simulator...
+## The core idea behind all of my projects is the pursuit of deterministic mathematical truth. Whether be it physics, biochemistry, ML, or just a math library, this profile is a programming manifestation of my pursuit of different kinds of mathematics. Perhaps I don't fully understand the highest degree of math within these projects right now but they manifest what wish to create and define mathematically at least.
+
+> Vibe Coding is excellent but it is always required to be both operational and intellectual boss of your creations...
